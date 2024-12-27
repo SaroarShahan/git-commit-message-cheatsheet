@@ -89,4 +89,6 @@ For a deeper understanding of Conventional Commits, check out the official docum
 - Keep your messages clear and concise.
 - Use the type that best represents the change you made.
 
-Written with ❤️ by [Saroar Shahan](https://www.shahansdiary.com/)
+## Who
+
+Written ❤️ by [SaroarShahan](https://www.shahansdiary.com/), made better by you.
