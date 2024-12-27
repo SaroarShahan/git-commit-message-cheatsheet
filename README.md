@@ -51,7 +51,7 @@ Each commit message follows this structure:
 ## 📋 Types of Commit
 
 1. **feat**: A new feature for the system  
-   Example: `feat(Booing): add Update Booking feature`
+   Example: `feat(Booking): add Update Booking feature`
 
 2. **fix**: A bug fix for the system  
    Example: `fix(DataTable): resolve issue with DataTable filter state`
