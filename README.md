@@ -7,7 +7,7 @@ An easy-to-follow guide that helps you become a 🚀 better developer 🚀 by ma
 
 By adopting Conventional Commits, it enhances your communication skills with clear, structured commit messages, helping you focus on the impact of your changes. This not only improves the way you work but also leads to smoother project management and better code quality, making collaboration more efficient.
 
-## 🚀 How to use Conventional Commits?
+## How to use Conventional Commits?
 
 ### 1. **Commit messages using `git commit` in the Terminal**
 
